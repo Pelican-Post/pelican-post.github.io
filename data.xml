@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Shoreside Studio</title>
+  <based-in>Rochester, NY</based-in>
+  <founding-date>January 2024</founding-date>
+  <website>https://drewg8.itch.io/pelican-post</website>
+  <press-contact>
+    pelicanpostgame@gmail.com
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+
+  <socials>
+    <social>
+      <name></name>
+      <link>
+        <!-- URL starting with http or https -->
+      </link>
+    </social>
+  </socials>
+
+  <description>Hello</description>
+
+  <!-- Choose between a single block: -->
+  <history></history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <trailers>
+    <trailer>
+      <name>Announcement Trailer</name>
+      <youtube>
+        I330fYHJf8s
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <awards>
+    <award>
+      <description>Grand Prize</description>
+      <info>RPI GameFest 2025</info>
+    </award>
+    <award>
+      <description>Excellence in Narrative</description>
+      <info>RPI GameFest 2025</info>
+    </award>
+    <award>
+      <description>Finalist in Visual Art</description>
+      <info>RPI GameFest 2025</info>
+    </award>
+  </awards>
+
+  <!-- <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes> -->
+
+  <!-- <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals> -->
+
+  <credits>
+    <credit>
+      <person>Drew Genel</person>
+      <role>Team Lead and Visual Lead</role>
+      <website>https://www.drewgenel.com</website>
+    </credit>
+    <credit>
+      <person>Jeremy Kotz</person>
+      <role>Development Lead</role>
+      <website>https://jeremykdev.itch.io/</website>
+    </credit>
+  </credits>
+
+  <!-- <contacts>
+    <contact>
+      <name></name>
+
+      <mail></mail>
+      <link></link>
+    </contact>
+  </contacts> -->
+</company>

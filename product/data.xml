@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Pelican Post</title>
+  <!-- <release-date>TBA</release-date> -->
+  <website>https://drewg8.itch.io/pelican-post</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <partners>
+    <partner>
+      <type>Publisher</type>
+      <title>MAGIC Spell Studios</title>
+      <website>https://www.rit.edu/magic/</website>
+      <based-in>Rochester, NY</based-in>
+    </partner>
+  </partners>
+
+  <platforms>
+    <platform>
+      <name>Itch.io</name>
+      <link>https://drewg8.itch.io/pelican-post</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>TBA</value>
+    </price>
+  </prices>
+
+  <description>Pelican Post is a cozy narrative game about delivering mail to a town of unique characters and helping to regain a lost sense of community. 
+
+You play as Pepper, a young pelican who recently moved to Port Pleasant to take a job as the town's mailman. Through your job, you'll get to interact with and get to know the townsfolk and help them out.
+
+"Small acts of kindness" is pretty much in the job description.</description>
+
+  <!-- Choose between a single block: -->
+  <history>We're a team of current and former students at Rochester Institute of Technology, across Game Design and Development, New Media Design, Film and Animation, and Marketting and Communication. Pelican Post started as a game jam project for the New Year, New Skills Jam, with the theme of “making connections” in January 2024. While we did not have the time to actually work on the game much during the jam itself, we loved the idea we had and decided to pursue it further. Since then, we've grown from five members to nine and brought our game through MAGIC Spell Studio's Maker Program in Spring 2025.</history>
+
+
+  <features>
+    <feature></feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Announcement Trailer</name>
+      <youtube>
+        I330fYHJf8s
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <!-- <steam> -->
+      <!-- Steam ID -->
+      <!-- e.g. 424242 -->
+    <!-- </steam> -->
+    <!-- <humble> -->
+      <!-- Humble Bundle product/id -->
+      <!-- e.g. mysupergame/42AAbB42dC -->
+    <!-- </humble> -->
+    <itch>
+      2569890
+    </itch>
+   
+    <!-- <bandcamp> -->
+      <!-- Bandcamp ID -->
+      <!-- e.g. 4242424242 -->
+    <!-- </bandcamp> -->
+  </widgets>
+
+  <awards>
+    <award>
+      <description>Grand Prize</description>
+      <info>RPI GameFest 2025</info>
+    </award>
+    <award>
+      <description>Excellence in Narrative</description>
+      <info>RPI GameFest 2025</info>
+    </award>
+    <award>
+      <description>Finalist in Visual Art</description>
+      <info>RPI GameFest 2025</info>
+    </award>
+  </awards>
+
+  <!-- <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes> -->
+
+  <!-- <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals> -->
+
+  <credits>
+    <credit>
+      <person>Drew Genel</person>
+      <role>Team Lead and Visual Lead</role>
+      <website>https://www.drewgenel.com</website>
+    </credit>
+    <credit>
+      <person>Jeremy Kotz</person>
+      <role>Development Lead</role>
+      <website>https://jeremykdev.itch.io/</website>
+    </credit>
+    <credit>
+      <person>Connor Petrei</person>
+      <role>Narrative Lead</role>
+    </credit>
+    <credit>
+      <person>Ricard Halvorson</person>
+      <role>Developer</role>
+    </credit>
+    <credit>
+      <person>Joana Leong</person>
+      <role>Composer and Narrative</role>
+    </credit>
+    <credit>
+      <person>Gale Ellis</person>
+      <role>Developer and Writer</role>
+    </credit>
+    <credit>
+      <person>Jason Weinberg</person>
+      <role>Developer</role>
+    </credit>
+    <credit>
+      <person>Cheryl Chang</person>
+      <role>Animator</role>
+    </credit>
+    <credit>
+      <person>Rylan Vanacore</person>
+      <role>Marketing</role>
+    </credit>
+    <credit>
+      <person>Josh Clark</person>
+      <role>Composer</role>
+    </credit>
+
+
+  </credits>
+
+  <contacts>
+    <contact>
+      <mail>pelicanpostgame@gmail.com</mail>
+    </contact>
+
+    <contact>
+      <link>https://linktr.ee/pelican_post</link>
+    </contact>
+  </contacts>
+</product>
