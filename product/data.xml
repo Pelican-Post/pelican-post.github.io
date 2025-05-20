@@ -30,18 +30,19 @@
     </price>
   </prices>
 
-  <description>Pelican Post is a cozy narrative game about delivering mail to a town of unique characters and helping to regain a lost sense of community. 
-
-You play as Pepper, a young pelican who recently moved to Port Pleasant to take a job as the town's mailman. Through your job, you'll get to interact with and get to know the townsfolk and help them out.
-
-"Small acts of kindness" is pretty much in the job description.</description>
+  <description>Pelican Post is a narrative game where you’ll take on the role of Pepper, who moves to a new town to take a job as a mailman. Along the way, she’ll learn that there’s more to the job than just delivering packages. By talking with and completing tasks with the colorful cast of characters who inhabit Port Pleasant, you’ll help to bring people back together who have drifted apart over the years and build a stronger community. "Small acts of kindness" is pretty much in the job description.</description>
 
   <!-- Choose between a single block: -->
-  <history>We're a team of current and former students at Rochester Institute of Technology, across Game Design and Development, New Media Design, Film and Animation, and Marketting and Communication. Pelican Post started as a game jam project for the New Year, New Skills Jam, with the theme of “making connections” in January 2024. While we did not have the time to actually work on the game much during the jam itself, we loved the idea we had and decided to pursue it further. Since then, we've grown from five members to nine and brought our game through MAGIC Spell Studio's Maker Program in Spring 2025.</history>
+  <history>Pelican Post started with a team of five friends at Rochester Institute of Technology who wanted to make a game. We had planned to enter a game jam in January 2024, and came up with the idea of repairing a community by making connections between neighbors as a mailman. Despite not having a lot of time to work during the jam, we loved the idea so much, we decided to continue working on it.
+
+Since then Pelican Post has grown from five members to nine, as we continue to build out the world of Post Pleasant. Pelican Post is built in GameMaker, with Ink serving as our dialogue engine. We were a part of the spring 2025 MAGIC Spell Studios Maker Program cohort and plan to publish Pelican Post with them in 2026.
+</history>
 
 
   <features>
-    <feature></feature>
+    <feature>A town full of unique characters</feature>
+    <feature>A story about bringing a community back together</feature>
+    <feature>Fun and surprising interactions</feature>
   </features>
 
   <trailers>
