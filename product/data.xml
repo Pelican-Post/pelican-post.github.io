@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
   <title>Pelican Post</title>
-  <!-- <release-date>TBA</release-date> -->
+  <release-date>Estimated Late 2026</release-date>
   <website>https://drewg8.itch.io/pelican-post</website>
 
   <!-- Link to request press copy: -->
@@ -17,6 +17,10 @@
   </partners>
 
   <platforms>
+  <platform>
+      <name>Steam</name>
+      <link>https://store.steampowered.com/app/4458440/Pelican_Post/</link>
+    </platform>
     <platform>
       <name>Itch.io</name>
       <link>https://drewg8.itch.io/pelican-post</link>
@@ -40,12 +44,19 @@ Since then Pelican Post has grown from five members to nine, as we continue to b
 
 
   <features>
-    <feature>A town full of unique characters</feature>
-    <feature>A story about bringing a community back together</feature>
-    <feature>Fun and surprising interactions</feature>
+    <feature>Explore the picturesque town of Port Pleasant with your mail truck</feature>
+    <feature>Discover playful interactions throughout the world</feature>
+    <feature>Deliver mail to and get to know a cast of colorful and charming characters</feature>
+    <feature>Help restore a sense of community to Port Pleasant</feature>
   </features>
 
   <trailers>
+    <trailer>
+      <name>Summer 2025 Trailer</name>
+      <youtube>
+        w1o_c1u3Vgs
+      </youtube>
+    </trailer>
     <trailer>
       <name>Announcement Trailer</name>
       <youtube>
@@ -56,10 +67,9 @@ Since then Pelican Post has grown from five members to nine, as we continue to b
 
   <!-- You can set your widgets here (optional): -->
   <widgets>
-    <!-- <steam> -->
-      <!-- Steam ID -->
-      <!-- e.g. 424242 -->
-    <!-- </steam> -->
+    <steam>
+      4458440
+    </steam>
     <!-- <humble> -->
       <!-- Humble Bundle product/id -->
       <!-- e.g. mysupergame/42AAbB42dC -->
@@ -98,18 +108,17 @@ Since then Pelican Post has grown from five members to nine, as we continue to b
     </quote>
   </quotes> -->
 
-  <!-- <additionals>
+  <additionals>
     <additional>
-      <title></title>
-      <description></description>
-      <link></link>
+      <title>RIT News Feature</title>
+      <link>https://www.rit.edu/news/rit-student-video-game-creations-take-top-prizes-gamefest-2025</link>
     </additional>
-  </additionals> -->
+  </additionals>
 
   <credits>
     <credit>
       <person>Drew Genel</person>
-      <role>Team Lead and Visual Lead</role>
+      <role>Creative Lead</role>
       <website>https://www.drewgenel.com</website>
     </credit>
     <credit>
@@ -123,31 +132,41 @@ Since then Pelican Post has grown from five members to nine, as we continue to b
     </credit>
     <credit>
       <person>Ricard Halvorson</person>
-      <role>Developer</role>
+      <role>Development</role>
     </credit>
     <credit>
       <person>Joana Leong</person>
-      <role>Composer and Narrative</role>
+      <role>Sound and Narrative</role>
     </credit>
     <credit>
-      <person>Gale Ellis</person>
-      <role>Developer and Writer</role>
+      <person>Nick Bryan</person>
+      <role>Narrative</role>
+      <website>https://www.nickbryangames.com/</website>
     </credit>
     <credit>
-      <person>Jason Weinberg</person>
-      <role>Developer</role>
-    </credit>
-    <credit>
-      <person>Cheryl Chang</person>
-      <role>Animator</role>
+      <person>Miranda Lenaghan</person>
+      <role>Narrative</role>
+      <website>https://sites.google.com/g.rit.edu/miranda-lenaghan-portfolio/home</website>
     </credit>
     <credit>
       <person>Rylan Vanacore</person>
       <role>Marketing</role>
     </credit>
     <credit>
+      <person>Cheryl Chang</person>
+      <role>Animator</role>
+    </credit>
+    <credit>
+      <person>Gale Ellis</person>
+      <role>Development and Narrative</role>
+    </credit>
+    <credit>
+      <person>Jason Weinberg</person>
+      <role>Additional Development</role>
+    </credit>
+    <credit>
       <person>Josh Clark</person>
-      <role>Composer</role>
+      <role>Additional Sound</role>
     </credit>
 
 
@@ -155,11 +174,28 @@ Since then Pelican Post has grown from five members to nine, as we continue to b
 
   <contacts>
     <contact>
+      <name>All Inquiries</name>
       <mail>pelicanpostgame@gmail.com</mail>
     </contact>
-
     <contact>
-      <link>https://linktr.ee/pelican_post</link>
+      <name>Instagram</name>
+      <link>https://www.instagram.com/pelicanpostgame</link>
+    </contact>
+    <contact>
+      <name>Discord Server</name>
+      <link>https://discord.gg/MnEFzjjvXW</link>
+    </contact>
+    <contact>
+      <name>Bluesky</name>
+      <link>https://bsky.app/profile/pelicanpost.bsky.social</link>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/pelicanpostgame</link>
+    </contact>
+    <contact>
+      <name>TikTok</name>
+      <link>https://www.tiktok.com/@pelican.post</link>
     </contact>
   </contacts>
 </product>
